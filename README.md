@@ -1,2 +1,3 @@
 # Nextjs-dashboardApp
-Next js repo
+
+This is a next js app for demo purposes
